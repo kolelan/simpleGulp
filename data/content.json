@@ -1,0 +1,44 @@
+{
+  "content": {
+    "content1" : {
+      "src": "/img/content/content1.jpg",
+      "title": "Lorem ipsum dolor.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, ullam!",
+      "link": "javascript:void(0)"
+    },
+    "content2" : {
+      "src": "/img/content/content2.jpg",
+      "title": "Blanditiis omnis, vero?",
+      "description": "Aliquid asperiores dolores ipsam ipsum officiis optio pariatur quibusdam repudiandae!",
+      "link": "javascript:void(0)"
+    },
+    "content3" : {
+      "src": "/img/content/content3.jpg",
+      "title": "Eius, minima provident.",
+      "description": "Consectetur ducimus ex facere fugit provident reiciendis sunt tempore voluptatem!",
+      "link": "javascript:void(0)"
+    }
+  },
+  "actions": {
+    "action1" : {
+      "src": "/img/content/actions/actions1.jpg",
+      "title": "Aliquam facere, nihil.",
+      "description": "Asperiores blanditiis ex facilis fugit iusto non possimus recusandae voluptas?",
+      "link": "javascript:void(0)"
+    },
+    "action2" : {
+      "src": "/img/content/actions/actions2.jpg",
+      "title": "Eaque, rem vel.",
+      "description": "Assumenda, cum dolorem explicabo facilis neque porro tempora. Dolor, repudiandae.",
+      "link": "javascript:void(0)"
+    },
+    "action3" : {
+      "src": "/img/content/actions/actions3.jpg",
+      "title": "At, repellendus ut.",
+      "description": "Ab eaque eos, maiores non optio quam quasi sed sequi.",
+      "link": "javascript:void(0)"
+    }
+  }
+
+
+}

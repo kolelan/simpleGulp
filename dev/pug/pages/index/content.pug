@@ -1,0 +1,12 @@
+section#content
+    .container
+        .content_wrap
+            each object in content.content
+                .content_item_wrap
+                    .content_item
+                        .ncontent_item__img
+                            img(src=object.src)
+                            .content_item__title=object.title
+                        .content_item__text=object.description
+                        .content_item__link
+                            a(href=object.link) Подробнее

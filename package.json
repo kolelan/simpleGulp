@@ -1,0 +1,45 @@
+{
+  "name": "start",
+  "version": "0.6.5",
+  "description": "pug, stylus, server, watcher и др. ## Описание начала работы Для начала работы с этой сборкой необходимо убедится, что у вас установлен ```npm```.  Для этого в консоли в корне сборки пишем команду ```npm -v``` Если получили ответ вроде этого ```6.2.0``` можно сразу вводить команду ```npm i```  после чего произойдёт установка node_modules необходимых для работы данной сборки. Всё готово, можно начинать работать! Вводим команду ```gulp```. Теперь у нас есть препроцессор HTML Pug, препроцессор CSS Stylus, мы можем задавать спрайты и всё сразу видеть на экране браузера (localhost:3000)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Саламатин Анатолий. FrontCoder",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "del": "^3.0.0",
+    "gulp": "github:gulpjs/gulp",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cheerio": "^0.6.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-csso": "^3.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-replace": "^0.6.1",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-stylus": "^2.6.0",
+    "gulp-svg-sprite": "^1.3.7",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-tinypng": "^1.0.2",
+    "gulp-uglifyjs": "^0.6.2"
+  },
+  "dependencies": {
+    "normalize.css": "^7.0.0",
+    "slick-carousel": "^1.8.1",
+    "svg4everybody": "^2.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noosp/gulpNoospBundle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Noosp/gulpNoospBundle/issues"
+  },
+  "homepage": "https://github.com/Noosp/gulpNoospBundle#readme"
+}

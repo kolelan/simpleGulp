@@ -1,0 +1,12 @@
+section#actions
+    .container
+        .actions
+            each object in content.actions
+                .action_item_wrap
+                    .action_item
+                        .action_item__img
+                            img(src=object.src)
+                            .action_item__title=object.title
+                        .action_item__text=object.description
+                        .action_item__link
+                            a(href=object.link) Подробнее

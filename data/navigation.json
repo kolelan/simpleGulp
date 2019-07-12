@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "menu1":{"text":"Menu1","href":"menu1.html"},
+    "menu2":{"text":"Menu2","href":"menu2.html"},
+    "menu3":{"text":"Menu3","href":"menu3.html"},
+    "menu4":{"text":"Menu4","href":"menu4.html"},
+    "menu5":{"text":"Menu5","href":"menu5.html"},
+    "menu6":{"text":"Menu5","href":"menu6.html"}
+  },
+  "footer_menu": {
+    "menu1":{"text":"Menu1","href":"menu1.html"},
+    "menu2":{"text":"Menu2","href":"menu2.html"},
+    "menu3":{"text":"Menu3","href":"menu3.html"},
+    "menu4":{"text":"Menu4","href":"menu4.html"},
+    "menu5":{"text":"Menu5","href":"menu5.html"},
+    "menu6":{"text":"Menu5","href":"menu6.html"}
+  }
+}
